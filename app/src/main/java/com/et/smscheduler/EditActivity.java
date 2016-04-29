@@ -3,7 +3,7 @@ package com.et.smscheduler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class AddActivity extends AppCompatActivity {
+public class EditActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
